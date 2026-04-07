@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Balaguru
+- 👋 Hi, I’m @Balaguru S
 - 👀 I’m interested in coding and playing with it
 - 🌱 I’m currently learning automation of python scripts 
 - 💞️ I’m looking to collaborate on many ideas  
