@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LIFEISJ
+- 👋 Hi, I’m @Balaguru
 - 👀 I’m interested in coding and playing with it
 - 🌱 I’m currently learning automation of python scripts 
 - 💞️ I’m looking to collaborate on many ideas  
